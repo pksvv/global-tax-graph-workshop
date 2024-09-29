@@ -1,0 +1,5 @@
+From_Company	To_Company	Amount_USD	Transaction_Type
+Parent_US	Subsidiary_UK	500000	Dividend
+Parent_US	Subsidiary_DE	300000	Service Payment
+Subsidiary_DE	Subsidiary_FR	200000	Goods Transfer
+Subsidiary_FR	Parent_US	150000	Royalties
