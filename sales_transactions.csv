@@ -1,0 +1,5 @@
+Seller	Buyer	Product	Quantity	Tax_Rate
+CA	TX	Widget	100	8.25%
+TX	NY	Gadget	200	8.875%
+NY	FL	Widget	150	7.00%
+FL	CA	Gadget	120	6.50%
