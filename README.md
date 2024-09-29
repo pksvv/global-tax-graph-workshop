@@ -6,23 +6,6 @@ Global Tax Graph Workshop: A hands-on guide to applying graph theory in global t
 
 This repository contains Python scripts, datasets, and resources to help you explore how graph theory can be applied to global taxation and financial networks. Through real-world examples and datasets, you'll learn how to create, visualize, and analyze tax-related networks using tools like `networkx` and Python.
 
-## Structure
-global-tax-graph-workshop/
-├── datasets/
-│   ├── tax_treaties.csv
-│   ├── financial_flows.csv
-│   └── sales_transactions.csv
-├── notebooks/
-│   ├── Module1_Graph_Theory.ipynb
-│   ├── Module2_NLP_Extraction.ipynb
-│   └── Module3_Knowledge_Graphs_Neo4j.ipynb
-├── scripts/
-│   ├── visualize_degree_centrality.py
-│   ├── export_metrics.py
-│   └── ...
-├── README.md
-└── LICENSE
-
 ## About
 
 This workshop focuses on:
